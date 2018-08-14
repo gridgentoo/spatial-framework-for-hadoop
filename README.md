@@ -1,6 +1,8 @@
 # Архитектура GIS для Hadoop spatial-framework-for-hadoop
 https://drive.google.com/drive/folders/1Wexr_AtLeWaZMcGGJn80pvlpzJrFdSId
 
+![Image alt](https://i.pinimg.com/originals/c2/5e/3f/c25e3ffb283c71c8cd11fa0c6a0f5072.jpg)
+
 # Пространственная агрегация для инструментов GIS для Hadoop spatial-framework-for-hadoop
 https://www.esri.com/arcgis-blog/products/product/data-management/new-spatial-aggregation-tutorial-for-gis-tools-for-hadoop/
 
