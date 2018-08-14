@@ -1,3 +1,5 @@
+https://drive.google.com/drive/folders/1Wexr_AtLeWaZMcGGJn80pvlpzJrFdSId
+
 # Пространственная агрегация для инструментов GIS для Hadoop spatial-framework-for-hadoop
 https://www.esri.com/arcgis-blog/products/product/data-management/new-spatial-aggregation-tutorial-for-gis-tools-for-hadoop/
 
